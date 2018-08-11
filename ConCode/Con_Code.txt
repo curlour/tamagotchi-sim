@@ -1,0 +1,2 @@
+You can create text files with all your Tamagotchis connection codes from the sim.
+They will appear in this folder!

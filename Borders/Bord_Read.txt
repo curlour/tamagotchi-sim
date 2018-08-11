@@ -1,0 +1,3 @@
+-Put your custom borders here-
+240 px x 72 px
+png
